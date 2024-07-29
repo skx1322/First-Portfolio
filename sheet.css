@@ -1,18 +1,18 @@
 @font-face {
     font-family: Proza;
-    src: url(Font/Proza_Libre/ProzaLibre-Regular.ttf)
+    src: url(Font/ProzaLibre-Regular.ttf)
 }
 @font-face {
     font-family: ProzaBold;
-    src: url(Font/Proza_Libre/ProzaLibre-Bold.ttf)
+    src: url(Font/ProzaLibre-Bold.ttf)
 }
 @font-face {
     font-family: ProzaSemi;
-    src: url(Font/Proza_Libre/ProzaLibre-SemiBold.ttf)
+    src: url(Font/ProzaLibre-SemiBold.ttf)
 }
 @font-face {
     font-family: ProzaMedium;
-    src: url(Font/Proza_Libre/ProzaLibre-Medium.ttf)
+    src: url(Font/ProzaLibre-Medium.ttf)
 }
 * {
     box-sizing: border-box;
